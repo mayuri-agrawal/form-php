@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Form Page 2</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="/style.css">
 
 </head>
 <body>
